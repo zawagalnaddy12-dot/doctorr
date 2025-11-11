@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://doctorr-mauve.vercel.app/sitemap.xml
